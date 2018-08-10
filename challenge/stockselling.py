@@ -1,6 +1,6 @@
 from highestsubsetsum import getHighestSumOfSubset
 
-EXAMPLE_LIST = [9, 11, 8, 5, 7, 10]
+EXAMPLE_LIST = [9, 11, 8, 5, 7, 10, 80, 60, 10, 20, 50,70]
 
 # The idea is to get the difference between the each price point
 # the most profitable time to buy and sell will be the largest contageous
